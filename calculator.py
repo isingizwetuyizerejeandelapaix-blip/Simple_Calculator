@@ -60,7 +60,7 @@ class CalculatorApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Simple Calculator | Codveda")
-        self.root.geometry("480x540")
+        self.root.geometry("480x660")
         self.root.resizable(False, False)
         self.root.configure(bg="#F3F5F9")
 
